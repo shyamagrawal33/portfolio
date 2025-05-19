@@ -65,12 +65,12 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
+      skillName: "figma",
+      fontAwesomeClassname: "fab fa-figma"
     },
     {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
+      skillName: "jira",
+      fontAwesomeClassname: "fab fa-jira"
     },
     {
       skillName: "sass",

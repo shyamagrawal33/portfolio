@@ -33,7 +33,7 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/saadpasta",
+  github: "https://github.com/shyamagrawal33",
   linkedin: "https://www.linkedin.com/in/shyamagrawal/",
   gmail: "shyam.agrawal33@gmail.com",
   //gitlab: "https://gitlab.com/saadpasta",
@@ -154,10 +154,10 @@ const workExperiences = {
       company: "Societe Generale",
       companylogo: require("./assets/images/socgenlogo.png"),
       date: "June 2022 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      /*desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"*/
       ]
     },
     {
@@ -165,14 +165,14 @@ const workExperiences = {
       company: "Flarro",
       companylogo: require("./assets/images/flarrologo.png"),
       date: "Jan 2022 – June 2022",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      /*desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."*/
     },
     {
       role: "Product Graduate Trainee",
       company: "Tata Consultancy Services",
       companylogo: require("./assets/images/tcslogo.png"),
       date: "July 2019 – June 2020",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      /*desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."*/
     }
   ]
 };

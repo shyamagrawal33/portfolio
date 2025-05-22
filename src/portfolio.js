@@ -150,11 +150,11 @@ const workExperiences = {
       company: "Societe Generale",
       companylogo: require("./assets/images/socgenlogo.png"),
       date: "June 2022 – Present",
-      /*desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"*/
-      ]
+      //desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      //descBullets: [
+       // "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+       // "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      //]
     },
     {
       role: "Founding Product Manager",

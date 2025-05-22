@@ -51,9 +51,7 @@ const skillsSection = {
   title: "What I do",
   subTitle: "CRAZY BUSINESS ANALYST WHO BUILDS GREAT PRODUCTS",
   skills: [
-    emoji(
-      "⚡ Develop new age products"
-    ),
+    emoji("⚡ Develop new age products"),
     emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
     emoji(
       "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
@@ -101,18 +99,18 @@ const educationInfo = {
       schoolName: "Great Lakes Institute of Management Chennai",
       logo: require("./assets/images/greatlakeslogo.png"),
       subHeader: "PGDM/MBA",
-      duration: "2020 - 2022",
-    //desc: "Participated in the research of XXX and published 3 papers.",
+      duration: "2020 - 2022"
+      //desc: "Participated in the research of XXX and published 3 papers.",
       //descBullets: [
-        //"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        //"Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      //"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      //"Lorem ipsum dolor sit amet, consectetur adipiscing elit"
       //]
     },
     {
       schoolName: "Brihan Maharashtra College of Commerce - Pune University",
       logo: require("./assets/images/bmcclogo.jpeg"),
       subHeader: "Bachelor of Business Administration in Computer Applications",
-      duration: "2016 - 2019",
+      duration: "2016 - 2019"
       //desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
       //descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
     }
@@ -149,25 +147,25 @@ const workExperiences = {
       role: "Business Analyst-Product",
       company: "Societe Generale",
       companylogo: require("./assets/images/socgenlogo.png"),
-      date: "June 2022 – Present",
+      date: "June 2022 – Present"
       //desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       //descBullets: [
-       // "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-       // "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      // "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      // "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
       //]
     },
     {
       role: "Founding Product Manager",
       company: "Flarro",
       companylogo: require("./assets/images/flarrologo.png"),
-      date: "Jan 2022 – June 2022",
+      date: "Jan 2022 – June 2022"
       //desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
       role: "Product Graduate Trainee",
       company: "Tata Consultancy Services",
       companylogo: require("./assets/images/tcslogo.png"),
-      date: "July 2019 – June 2020",
+      date: "July 2019 – June 2020"
       //desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }
   ]
@@ -342,8 +340,7 @@ const resumeSection = {
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
-  subtitle:
-    "Want to hire me or just want to say hi? My Inbox is open for all.",
+  subtitle: "Want to hire me or just want to say hi? My Inbox is open for all.",
   number: "+91-9424866030",
   email_address: "shyam.agrawal33@gmail.com"
 };

@@ -26,7 +26,7 @@ const greeting = {
     "Excited about problems, and even more hyped about solving them."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1rZa5qyb93jA6GRBnf9byo0I9OyHAt2pv/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 

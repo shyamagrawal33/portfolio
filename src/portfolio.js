@@ -52,7 +52,7 @@ const skillsSection = {
   subTitle: "CRAZY BUSINESS ANALYST WHO BUILDS GREAT PRODUCTS",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ Develop new age products"
     ),
     emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
     emoji(
@@ -73,16 +73,12 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-jira"
     },
     {
-      skillName: "tableau",
-      fontAwesomeClassname: "fab fa-tableau"
-    },
-    {
-      skillName: "power-bi",
-      fontAwesomeClassname: "fab fa-powerbi"
+      skillName: "Power Bi",
+      fontAwesomeClassname: "fab fa-magnifying-glass-chart"
     },
     {
       skillName: "MS-Office",
-      fontAwesomeClassname: "fab fa-office"
+      fontAwesomeClassname: "fab fa-table"
     },
     {
       skillName: "sql-database",
